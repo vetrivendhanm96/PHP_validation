@@ -56,7 +56,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html>
 
 <head>
-    <title> User Input Form </title>
+    <title> User Input Forms Method </title>
     <style type="text/css">
         .error {
             color: red;
